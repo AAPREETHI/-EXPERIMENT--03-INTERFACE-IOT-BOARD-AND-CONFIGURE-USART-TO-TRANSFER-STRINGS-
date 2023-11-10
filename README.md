@@ -166,8 +166,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of Serial port utility   :
  
- 
- 
- 
+ ![image](https://github.com/AAPREETHI/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/128414844/ab32c75d-881b-4139-a99d-29ce9571d458)
+
 ## Result :
 configuring and usart is accomplished and string data is visualized on the serial port utilty
